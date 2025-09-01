@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction System
+<img width="100" height="58" alt="image" src="https://github.com/user-attachments/assets/656b27d4-d7e7-47e8-8154-d9d51f81ae3c" /># 🫀 Heart Disease Prediction System
 
 A Python-based **Heart Disease Prediction System** built using **Logistic Regression** and a **Tkinter GUI**.  
 The model is trained on the **Kaggle Heart Disease Dataset**, analyzing **13 key medical attributes** to predict the likelihood of heart disease.  
@@ -19,7 +19,7 @@ This project demonstrates how **machine learning + GUI** can be combined to make
 
 ## 📊 Dataset
 
-- **Source**: [Kaggle - Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
+- **Source**: [Kaggle - Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - **Attributes Used (13 features):**
   1. Age
   2. Sex (0 = Female, 1 = Male)
@@ -46,3 +46,6 @@ This project demonstrates how **machine learning + GUI** can be combined to make
 - **Scikit-learn** (Logistic Regression, Evaluation Metrics)
 - **Pandas & NumPy** (Data preprocessing & handling)
 - **Tkinter** (Graphical User Interface)
+
+  <img width="469" height="498" alt="Heart_Disease_Prediction_SS" src="https://github.com/user-attachments/assets/99f76344-cd3f-4420-bd5e-150125c77949" />
+
